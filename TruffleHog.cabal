@@ -22,9 +22,11 @@ executable TruffleHog
 
   build-depends:
     base >=2 && <5,
-    hsndfile,
-    hsndfile-storablevector >=0.7.1,
-    dsp >=0.2.3
+    hsndfile >=0.7.1,
+    storablevector,
+    hsndfile-storablevector,
+    array,
+    vector-fftw
 
   default-language:
     Haskell2010
