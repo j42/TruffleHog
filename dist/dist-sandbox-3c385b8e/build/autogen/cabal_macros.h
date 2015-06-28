@@ -105,5 +105,5 @@
   (major1) == 0 && (major2) <  67 || \
   (major1) == 0 && (major2) == 67 && (minor) <= 0)
 
-#define CURRENT_PACKAGE_KEY "Truff_9SwMTvVpEl5EQrZ7BV2bCf"
+#define CURRENT_PACKAGE_KEY "Truff_6dqM6P2wTE3E2zgc3wXkvf"
 
